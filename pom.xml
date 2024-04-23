@@ -1,7 +1,7 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>ammsoft.org</groupId>
-  <artifactId>Examen</artifactId>
+  <artifactId>20240423BancoJPA</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <dependencies>
 
@@ -51,5 +51,10 @@
 			<version>2.17.0</version>
 		</dependency>
 
-	</dependencies>
+		<dependency>
+			<groupId>org.rmrsoft</groupId>
+			<artifactId>tutorialJava2023-24-Maven</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
+  </dependencies>
 </project>
